@@ -77,7 +77,7 @@ Organisez tous les fichiers du projet dans un dossier principal, en suivant cett
 ---
 
 ## Auteur
-- **Enseignant :** Raogo Kaboré
+- **Etudiante :** beyonce TSAGUA
 - **Classe :** I1 FE
 - **Année scolaire :** 2024 - 2025
 
